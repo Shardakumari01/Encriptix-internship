@@ -1,2 +1,2 @@
-#Encriptix Internship
+# Internship
 internship project
